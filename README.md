@@ -60,6 +60,7 @@ Residual risk was reassessed after assuming successful implementation of the rec
 | File | Description |
 |------|-------------|
 | `NovaCart_GRC_Portfolio.xlsx` | Risk register, control assessment, gap analysis, and risk treatment plan |
+| `NovaCart_GRC_Portfolio.xlsx` | Risk register, control assessment, gap analysis, and risk treatment plan |
 
 ## Skills Demonstrated
 
